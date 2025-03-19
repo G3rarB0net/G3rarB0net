@@ -16,7 +16,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3rarBonet&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3rarB0net&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
 
 ## Connect with me ☕ : 
 <br>
