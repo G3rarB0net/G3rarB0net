@@ -12,11 +12,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
-## GitHub Stats 📈 :
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3rarB0net&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
 
 ## Connect with me ☕ : 
 <br>
